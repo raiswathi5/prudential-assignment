@@ -1,4 +1,6 @@
-This application uses goodreads api to look for books by title, author or isbn code.
+# prudential_assignment
+
+This application uses goodreads api to look for books by name.
 
 This project was bootstrapped with `create-react-app` and deployed live at https://prudential-assignment.herokuapp.com/
 
@@ -8,7 +10,7 @@ This project was bootstrapped with `create-react-app` and deployed live at https
 
 **Required Environment Variables:**
 
-`api_key` : Goodreads API Key you can get from [here](https://www.goodreads.com/api/keys).
+`apiKey` : Goodreads API Key you can get from [here](https://www.goodreads.com/api/keys).
 
 To run the application locally in development mode:
 
@@ -63,6 +65,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 # Future Implementation:
 
 Some of the things that can be implemented in the future are:
-
 1. Ability to sign in with github so users can add their own reviews and ratings.
 2. Cosmetic enhancements.
