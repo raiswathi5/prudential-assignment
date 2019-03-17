@@ -20,7 +20,11 @@ https://github.com/raiswathi5/prudential-assignment.git
 
 ## Available Scripts
 
-In the project directory, you can run:
+**Install dependencies:**
+
+### `npm install`
+
+**Start the application:**
 
 ### `npm start`
 
@@ -29,6 +33,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+**Building the application:**
+
+To build the production assets, run
+
+### `npm run build`
+
+**Testing the App:**
 
 ### `npm test`
 
