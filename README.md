@@ -1,4 +1,4 @@
-# prudential_assignment
+# prudential-assignment
 
 This application uses goodreads api to look for books by name.
 
